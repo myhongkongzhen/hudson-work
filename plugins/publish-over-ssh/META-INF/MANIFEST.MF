@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: bobfoster
+Build-Jdk: 1.6.0_27
+Group-Id: org.hudsonci.plugins
+Short-Name: publish-over-ssh
+Long-Name: Publish Over SSH
+Url: http://wiki.hudson-ci.org/display/HUDSON/Publish+Over+SSH+Plugin
+Compatible-Since-Version: 0.3
+Plugin-Version: 1.10-h-1
+Hudson-Version: 3.0.0
+Plugin-Developers: Bap:bap:bap-jenkins@BapIT.co.uk
+
